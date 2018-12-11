@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^1.18.7"
+    "nodemon": "^1.18.7",
+    "xregexp": "3.1.1"
   }
 }
